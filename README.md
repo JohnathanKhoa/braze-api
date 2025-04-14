@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+This application integrates Braze SDK for Web development in React/NextJS
+https://www.braze.com/docs/developer_guide/references/#list-of-resources
+https://github.com/braze-inc/braze-web-sdk/tree/master
+
+![brazecom](https://github.com/user-attachments/assets/884ac08c-1602-4f00-90e5-c58017614eac)
+
+
 ## Getting Started
 
 First, clone the repo
